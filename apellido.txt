@@ -1,0 +1,20 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Oct 16 14:54:45 2023
+
+@author: Dell
+"""
+
+
+
+Otazu
+Gutierrez
+Figueroa
+Zapata
+Leon
+Silva
+Mera
+Aldazabal
+Anton
+Peso
+Vilca

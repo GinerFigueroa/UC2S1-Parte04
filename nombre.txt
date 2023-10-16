@@ -1,0 +1,20 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Oct 16 14:53:45 2023
+
+@author: Dell
+"""
+
+
+
+Diego
+Danahe
+Ginner
+Abel
+Jose
+Gianella
+Ana
+Nayeli
+Lucas
+Marco
+Jheremy
